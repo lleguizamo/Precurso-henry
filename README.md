@@ -1,2 +1,1 @@
-# Precurso-henry
-repositorio del modulo 2 del Precurso de henry
+esto es una prueba de como crear un repositorio y guardarlo
